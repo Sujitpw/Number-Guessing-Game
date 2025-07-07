@@ -1,0 +1,13 @@
+# Guesser Game
+
+This is a simple console-based Guesser Game implemented in Java.  
+- **Guesser:** Picks a secret number.  
+- **Players:** Try to guess the number.  
+- **Umpire:** Collects guesses and announces the result.
+
+This project demonstrates basic Java programming, OOP concepts (classes and objects), and simple user input handling with `Scanner`.
+
+## How to Run
+1. Compile the code: `javac GuesserGame.java`
+2. Run the game: `java GuesserGame`
+3. Follow the console instructions.
